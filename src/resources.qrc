@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>graphics/icons/linear.png</file>
+	<file>graphics/icons/play_green.png</file>
+	<file>graphics/icons/pause.png</file>
+	<file>graphics/icons/stop.png</file>
+	<file>graphics/icons/info.png</file>
+	<file>graphics/icons/pinion_lightgray.png</file>
+	<file>graphics/plane.png</file>
+	<file>graphics/tag.png</file>
+</qresource>
+</RCC>
